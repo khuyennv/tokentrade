@@ -17,7 +17,7 @@ async function main() {
       throw console.error("Invalid instruction");
   }
 
-  console.log("Run commabnd success");
+  console.log("Run command success");
 }
 
 main().then(
